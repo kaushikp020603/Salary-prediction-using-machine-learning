@@ -46,7 +46,3 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 If you encounter any issues or have questions about the project, please feel free to contact us at [kaushik020603@gmail.com](mailto:kaushik020603@gmail.com).
 
-## Acknowledgments 🙏
-
-We acknowledge the contributions of all project collaborators and thank them for their efforts in making this project successful.
-
